@@ -30,7 +30,7 @@ src/
    ```
 2. Open the project in an IDE such as IntelliJ IDEA or Eclipse.
 3. Ensure that JDK 17 or a later version is configured.
-4. Compile and execute Main.java to launch the application.
+4. Compile and execute BlockChain.java to launch the application.
 5. Follow the on-screen instructions to generate wallets, create transactions, and view the blockchain.
 
 ## Learning Objectives
